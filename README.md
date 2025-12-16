@@ -1,4 +1,4 @@
-# 🌐 Continuous Delivery with Google Cloud Deploy || GSP1079 🚀 [![Open Lab](https://img.shields.io/badge/Open-Lab-blue?style=flat)](https://www.cloudskillsboost.google/games/6464/labs/40628)
+ # 🌐 Implement CI/CD Pipelines on Google Cloud: Challenge Lab || GSP393 🚀 
 
 ## ⚠️ Disclaimer ⚠️
 
@@ -15,9 +15,9 @@
 ## ☁️ Run in Cloud Shell:
 
 ```bash
-curl -LO raw.githubusercontent.com/tejaswinimuddasani-ops/Arcade-Google-Cloud-Labs/refs/heads/main/Continuous%20Delivery%20with%20Google%20Cloud%20Deploy/TechCode.sh
-sudo chmod +x TechCode.sh 
-./TechCode.sh
+curl -LO raw.githubusercontent.com/tejaswinimuddasani-ops/Arcade-Google-Cloud-Labs/refs/heads/main/Implement%20CI-CD%20Pipelines%20on%20Google%20Cloud%3A%20Challenge%20Lab/tejaswinimuddasani-ops.sh
+sudo chmod +x tejaswinimuddasani-ops.sh 
+./tejaswinimuddasani-ops.sh
 ```
 
 </div>
@@ -26,23 +26,12 @@ sudo chmod +x TechCode.sh
 
 ## 🎉 **Congratulations! Lab Completed Successfully!** 🏆  
 
-<div align="center" style="padding: 5px;">
-  <h3>📱 Join the Tech & Code Community</h3>
-  
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tejaswini-muddasani-106a14292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-</a>
 
+ <a href="https://www.linkedin.com/in/tejaswini-muddasani-106a14292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="margin: 0 6px; display: inline-block;">
+  </a>
 
-</div>
-
----
-
-<div align="center">
   <p style="font-size: 12px; color: #586069;">
-  </p>
-  <p style="font-size: 12px; color: #586069;">
-    <em>Last updated: DEC 2025</em>
+    <em>Last updated: December 2025</em>
   </p>
 </div>
 
