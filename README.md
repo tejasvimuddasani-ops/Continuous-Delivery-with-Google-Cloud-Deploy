@@ -16,7 +16,7 @@
 
 ```bash
 curl -LO raw.githubusercontent.com/tejaswinimuddasani-ops/Arcade-Google-Cloud-Labs/refs/heads/main/Implement%20CI-CD%20Pipelines%20on%20Google%20Cloud%3A%20Challenge%20Lab/tejaswinimuddasani-ops.sh
-sudo chmod +x tejaswinimuddasani-ops.sh 
+sudo chmod +x tejaswinimuddasani-ops.sh
 ./tejaswinimuddasani-ops.sh
 ```
 
